@@ -9,3 +9,4 @@
 /build
 /.vs
 .DS_Store
+/Assembly-CSharp-Editor.csproj

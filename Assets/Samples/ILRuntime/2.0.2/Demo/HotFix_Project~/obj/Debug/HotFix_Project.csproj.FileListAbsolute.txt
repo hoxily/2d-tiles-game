@@ -1,0 +1,6 @@
+C:\Users\hoxily\workspace\2d-tiles\Assets\StreamingAssets\HotFix_Project.dll
+C:\Users\hoxily\workspace\2d-tiles\Assets\StreamingAssets\HotFix_Project.pdb
+C:\Users\hoxily\workspace\2d-tiles\Assets\Samples\ILRuntime\2.0.2\Demo\HotFix_Project~\obj\Debug\HotFix_Project.csproj.AssemblyReference.cache
+C:\Users\hoxily\workspace\2d-tiles\Assets\Samples\ILRuntime\2.0.2\Demo\HotFix_Project~\obj\Debug\HotFix_Project.csproj.CoreCompileInputs.cache
+C:\Users\hoxily\workspace\2d-tiles\Assets\Samples\ILRuntime\2.0.2\Demo\HotFix_Project~\obj\Debug\HotFix_Project.dll
+C:\Users\hoxily\workspace\2d-tiles\Assets\Samples\ILRuntime\2.0.2\Demo\HotFix_Project~\obj\Debug\HotFix_Project.pdb
